@@ -3,4 +3,7 @@ header {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
+    background-color: rgba(0,0,0,0.2);
+    border: solid rgb(0,0,0) 0.1rem;
+    padding: 0.1rem;
 }
